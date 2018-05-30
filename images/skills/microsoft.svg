@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="3.872128mm"
+   height="4.6649199mm"
+   viewBox="0 0 13.720139 16.529243"
+   id="svg3476"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="javascript.svg">
+  <defs
+     id="defs3478" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="22.4"
+     inkscape:cx="15.062475"
+     inkscape:cy="-0.44237125"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1-6"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3481">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1909.1541,1372.4311)">
+    <g
+       transform="translate(67.881401,-563.96275)"
+       id="layer1-0"
+       inkscape:label="Layer 1">
+      <g
+         transform="matrix(0.62780448,0,0,0.62780448,145.34654,648.35211)"
+         id="g4633"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           transform="matrix(1.5928528,0,0,1.5928528,-276.17186,-1014.251)"
+           id="layer1-6"
+           inkscape:label="Layer 1">
+          <g
+             data-name="Logo"
+             id="Logo-2"
+             transform="translate(-1951.8132,760.51984)"
+             style="fill:#ffffff;fill-opacity:1">
+            <g
+               transform="matrix(0.53792119,0,0,0.53792119,-261.72015,-2127.6977)"
+               id="layer1-9"
+               inkscape:label="Layer 1"
+               style="fill:#ffffff;fill-opacity:1">
+              <path
+                 style="fill:#ffffff;fill-opacity:1"
+                 d="m 491.76994,1041.8676 0,-18.6807 16.52509,-6.1071 8.98076,2.874 0,25.1469 -8.98076,2.7071 -16.52509,-5.9403 16.52509,1.9887 0,-21.7468 -10.77743,2.5147 0,14.729 z"
+                 id="path12"
+                 inkscape:connector-curvature="0" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

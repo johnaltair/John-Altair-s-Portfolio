@@ -1,0 +1,145 @@
+@import 'style.less';
+
+header {
+    z-index: 100;
+
+    background: @mind-shaft;
+
+    font-family: @primary-font;
+    font-weight: 700;
+
+    .flex-display();
+    .flex-direction(column);
+
+    .header-icon {
+        padding: 10px;
+
+        .flex-display();
+        .align-items(center);
+        .justify-content(space-between);
+    }
+
+    .header-img {
+        width: 194px;
+        height: 58px;
+
+        .transition(.2s);
+
+        &:hover {
+           .opacity(.6);
+        }
+    }
+
+    a {
+        color: @white;
+
+        &:hover {
+            color: @silver;
+        }
+    }
+}
+
+.mobile-menu-toggle {
+    font-size: 2rem;
+
+    &:hover {
+        color: @white;
+    }
+
+    .fa-bars {
+        width: 35px;
+
+        .flex-display();
+        .justify-content(center);
+    }
+
+    &.active {
+        color: @white;
+
+        .fa-bars:before {
+            content: @icon-times;
+        }
+    }
+}
+
+.navigation {
+    padding: 0 10px;
+
+    background: @silver;
+
+    li {
+        margin-top: 10px;
+
+        font-size: 1.1rem;
+        line-height: 32px;
+
+        &:last-child {
+            margin-bottom: 10px;
+        }
+    }
+
+    a {
+        color: @mind-shaft;
+
+        &:hover {
+            color: @white;
+        }
+    }
+
+    &.active,
+    &.inactive {
+        overflow-y: hidden;
+
+        max-height: 0;
+
+        .transition(max-height 0.4s ease-in-out);
+    }
+
+    &.active {
+        max-height: 200px;
+    }
+}
+
+@media only screen  and (min-width: @screen__m) {
+    header {
+        .flex-direction(row);
+        .justify-content(center);
+    }
+
+    .header-container {
+        width: 100%;
+        max-width: @base-width;
+        padding: 10px 0;
+
+        .flex-display();
+        .justify-content(space-between);
+        .align-items(center);
+    }
+
+    .mobile-menu-toggle {
+        visibility: hidden;
+    }
+
+    .navigation.inactive,
+    .navigation.active {
+        overflow-y: auto;
+
+        max-height: none;
+
+        background: none;
+
+        .flex-display();
+
+        a {
+            color: @white;
+
+            &:hover {
+                color: @silver-chalice;
+            }
+        }
+
+        li {
+            margin: 0 0 0 30px;
+        }
+    }
+}

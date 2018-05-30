@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="4.2644715mm"
+   height="4.9243083mm"
+   viewBox="0 0 15.110332 17.448336"
+   id="svg3476"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="javascript.svg">
+  <defs
+     id="defs3478" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="55.996184"
+     inkscape:cy="-21.458059"
+     inkscape:document-units="px"
+     inkscape:current-layer="Logo-2"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3481">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1137.7968,1278.7866)">
+    <g
+       transform="translate(67.881401,-563.96275)"
+       id="layer1-0"
+       inkscape:label="Layer 1">
+      <g
+         transform="matrix(0.62780448,0,0,0.62780448,145.34654,648.35211)"
+         id="g4633"
+         style="fill:#ffffff;fill-opacity:1">
+        <g
+           transform="matrix(1.5928528,0,0,1.5928528,-276.17186,-1014.251)"
+           id="layer1-6"
+           inkscape:label="Layer 1">
+          <rect
+             id="rect4355"
+             height="630"
+             width="630"
+             x="255.28049"
+             y="701.02277"
+             style="fill:#ff0000;fill-opacity:0" />
+          <g
+             data-name="Logo"
+             id="Logo-2"
+             transform="translate(-1151.7725,881.73813)">
+            <g
+               id="g4434"
+               transform="matrix(-0.01905464,0,0,0.01905464,-10.75979,-1608.1627)"
+               style="fill:#ffffff;fill-opacity:1">
+              <polygon
+                 style="fill:#ffffff;fill-opacity:1"
+                 points="793,228.7 396.9,0 396.9,0 0,229.1 0,686.7 113.3,752.2 112.5,294.5 396.1,130.8 679.7,294.5 679.7,752 793,686.7 "
+                 id="polygon4397" />
+              <polygon
+                 style="fill:#ffffff;fill-opacity:1"
+                 points="453.1,294.5 453.1,752.1 453.1,752.1 396.5,785 339.6,752.4 339.6,294.5 226.4,359.9 226.6,817.6 396.4,915.7 566.4,817.6 566.4,359.9 "
+                 id="polygon4399" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
