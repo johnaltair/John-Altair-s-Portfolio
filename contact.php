@@ -8,7 +8,7 @@
             <h4 class="desktop">Feel free to reach me through the following channels:</h4>
         </div>
         <div class="filler-image">
-            <img alt="Paper Head" src="images/portrait.png">
+            <img alt="Portrait" src="images/portrait.png">
         </div>
         <h4 class="mobile">Feel free to reach me through the following channels:</h4>
     </div>
