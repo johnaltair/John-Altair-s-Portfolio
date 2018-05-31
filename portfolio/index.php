@@ -12,6 +12,9 @@
         case 'bar':
             require_once 'portfolio/bar.php';
             exit;
+        case 'caa':
+            require_once 'portfolio/caa.php';
+            exit;
         case 'cap':
             require_once 'portfolio/cap.php';
             exit;
@@ -48,6 +51,9 @@
         case 'med':
             require_once 'portfolio/med.php';
             exit;
+        case 'mmp':
+            require_once 'portfolio/mmp.php';
+            exit;
         case 'ois':
             require_once 'portfolio/ois.php';
             exit;
@@ -72,8 +78,8 @@
         case 'po2':
             require_once 'portfolio/po2.php';
             exit;
-        case 'po1':
-            require_once 'portfolio/po1.php';
+        case 'po3':
+            require_once 'portfolio/po3.php';
             exit;
         case 'sta':
             require_once 'portfolio/sta.php';

@@ -2891,6 +2891,9 @@ a {
   color: #212121;
   background: none;
 }
+.common-button.home {
+  color: #e0e0e0;
+}
 .container {
   position: relative;
   height: 100%;
@@ -3583,6 +3586,7 @@ footer p {
   }
   .homepage .common-button {
     margin: 35px 0 0;
+    padding: 5px 8px 8px;
   }
   .homepage .owl-dots {
     position: relative;

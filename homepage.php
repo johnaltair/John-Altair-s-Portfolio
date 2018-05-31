@@ -57,6 +57,10 @@
                 <img alt="Barista Panda" src="images/portfolio/thumbnails/barista-panda.png">
                 <span>Barista Panda</span>
             </a>
+            <a title="CAAP" class="portfolio-box" href="index.php?mod=portfolio&sub=caa">
+                <img alt="CAAP" src="images/portfolio/thumbnails/caap.png">
+                <span>CAAP</span>
+            </a>
             <a title="Capstoned" class="portfolio-box" href="index.php?mod=portfolio&sub=cap">
                 <img alt="Capstoned" src="images/portfolio/thumbnails/capstoned.png">
                 <span>Capstoned</span>
@@ -73,11 +77,7 @@
                 <img alt="Doggie.cool" src="images/portfolio/thumbnails/doggie-cool.png">
                 <span>Doggie<p>.</p>cool</span>
             </a>
-            <a title="E-Voting System" href="index.php?mod=portfolio&sub=evo" class="portfolio-box">
-                <img alt="E-Voting System" src="images/portfolio/thumbnails/e-voting-system.png">
-                <span>E<p>-</p>Voting System</span>
-            </a>
-            <a title="See More" class="common-button" href="index.php?mod=portfolio">See More</a>
+            <a title="See More" class="common-button home" href="index.php?mod=portfolio">See More</a>
         </div>
     </div>
 </div>

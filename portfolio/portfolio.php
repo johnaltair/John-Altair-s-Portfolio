@@ -16,6 +16,10 @@
         <img alt="Barista Panda" src="images/portfolio/thumbnails/barista-panda.png">
         <span>Barista Panda</span>
     </a>
+    <a title="CAAP" href="index.php?mod=portfolio&sub=caa" class="portfolio-box">
+        <img alt="Capstoned" src="images/portfolio/thumbnails/caap.png">
+        <span>CAAP</span>
+    </a>
     <a title="Capstoned" href="index.php?mod=portfolio&sub=cap" class="portfolio-box">
         <img alt="Capstoned" src="images/portfolio/thumbnails/capstoned.png">
         <span>Capstoned</span>
@@ -51,6 +55,10 @@
     <a title="Jazen Co." href="index.php?mod=portfolio&sub=jaz" class="portfolio-box">
         <img alt="Jazen Co." src="images/portfolio/thumbnails/jazen-co.png">
         <span>Jazen Co<p>.</p></span>
+    </a>
+    <a title="Mail My Prescriptions" href="index.php?mod=portfolio&sub=mmp" class="portfolio-box">
+        <img alt="Mail My Prescriptions" src="images/portfolio/thumbnails/mail-my-prescriptions.png">
+        <span>Mail My Prescriptions</span>
     </a>
     <a title="Manpower System" href="index.php?mod=portfolio&sub=man" class="portfolio-box">
         <img alt="Manpower System" src="images/portfolio/thumbnails/manpower-management-system.png">
@@ -99,6 +107,10 @@
     <a title="Portrait II" href="index.php?mod=portfolio&sub=po2" class="portfolio-box">
         <img alt="Portrait II" src="images/portfolio/thumbnails/portrait-ii.png">
         <span>Portrait II</span>
+    </a>
+    <a title="Portrait III" href="index.php?mod=portfolio&sub=po3" class="portfolio-box">
+        <img alt="Portrait III" src="images/portfolio/thumbnails/portrait-iii.png">
+        <span>Portrait III</span>
     </a>
     <a title="Stark Coffee" href="index.php?mod=portfolio&sub=sta" class="portfolio-box">
         <img alt="Stark Coffee" src="images/portfolio/thumbnails/stark-coffee.png">
