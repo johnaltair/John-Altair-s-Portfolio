@@ -78,8 +78,8 @@
         case 'po2':
             require_once 'portfolio/po2.php';
             exit;
-        case 'po3':
-            require_once 'portfolio/po3.php';
+        case 'pro':
+            require_once 'portfolio/pro.php';
             exit;
         case 'sta':
             require_once 'portfolio/sta.php';

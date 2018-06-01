@@ -108,9 +108,9 @@
         <img alt="Portrait II" src="images/portfolio/thumbnails/portrait-ii.png">
         <span>Portrait II</span>
     </a>
-    <a title="Portrait III" href="index.php?mod=portfolio&sub=po3" class="portfolio-box">
-        <img alt="Portrait III" src="images/portfolio/thumbnails/portrait-iii.png">
-        <span>Portrait III</span>
+    <a title="Propaganda" href="index.php?mod=portfolio&sub=pro" class="portfolio-box">
+        <img alt="Propaganda" src="images/portfolio/thumbnails/propaganda.png">
+        <span>Propaganda</span>
     </a>
     <a title="Stark Coffee" href="index.php?mod=portfolio&sub=sta" class="portfolio-box">
         <img alt="Stark Coffee" src="images/portfolio/thumbnails/stark-coffee.png">
