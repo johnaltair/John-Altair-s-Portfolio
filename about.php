@@ -2,12 +2,17 @@
     <div class="top-section">
         <div class="top-text">
             <h2>About</h2>
-            <h4>I am a Graphic Designer, Mobile Developer, & Web Developer from the Philippines.</h4>
-            <p>When creativity slaps me on the face, I turn my laptop on and work on something that's totally random.
-                That's how I ended up with a fish person whose head is hidden underneath a paperbag.</p>
+            <div class="filler-image mobile">
+                <img alt="Portrait" src="images/portrait-2.png">
+            </div>
+            <h4>Hi! I'm John Altair Gensola. I'm a Graphic Designer, Mobile Developer, and Web Developer. </h4>
+            <h4>I'm 21 years old, and I'm from the Philippines. I love to create things using a computer, and sometimes
+                I like to take pictures of food.</h4>
+            <h4 class="excess">I can speak in English and Filipino (Tagalog & Hiligaynon), but I can also read Korean & Japanese (Hiragana & Katakana) though I don't
+                understand either of them.</h4>
         </div>
-        <div class="filler-image">
-            <img alt="Paper Head" src="images/paper-head.png">
+        <div class="filler-image desktop">
+            <img alt="Portrait" src="images/portrait-2.png">
         </div>
     </div>
     <div class="bottom-section">

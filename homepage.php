@@ -1,5 +1,5 @@
 <div class="homepage">
-    <h2><span>Hi, I'm John Altair & I'm a</span></h2>
+    <h2><span>Hi! I'm John Altair & I'm a</span></h2>
     <div class="owl-carousel">
         <div class="slide web-developer">
             <div class="slide-content">

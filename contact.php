@@ -6,7 +6,7 @@
             <div class="filler-image mobile">
                 <img alt="Portrait" src="images/portrait.png">
             </div>
-            <h4>Thank you for your interest in my work. If you're looking for an awesome person to work
+            <h4>If you're looking for a proficient guy to work
                 for you, don't hesitate to keep to reach me through the following channels:</h4>
             <ul class="sns">
                 <li>
