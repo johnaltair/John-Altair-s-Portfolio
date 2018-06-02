@@ -7,7 +7,7 @@
                 <img alt="Portrait" src="images/portrait.png">
             </div>
             <h4>If you're looking for a proficient guy to work
-                for you, don't hesitate to keep to reach me through the following channels:</h4>
+                for you, don't hesitate to reach me through the following channels:</h4>
             <ul class="sns">
                 <li>
                     <a target="_blank" class="instagram sns" title="Follow me on Instagram"
