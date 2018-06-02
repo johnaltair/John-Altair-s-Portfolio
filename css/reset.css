@@ -3257,6 +3257,166 @@ footer p {
 .contact .filler-image img {
   width: 100%;
 }
+.portfolio .filler-image.desktop,
+.about .filler-image.desktop,
+.contact .filler-image.desktop {
+  display: none;
+}
+.portfolio ul.sns li,
+.about ul.sns li,
+.contact ul.sns li {
+  margin-bottom: 20px;
+}
+.portfolio ul.sns li .sns,
+.about ul.sns li .sns,
+.contact ul.sns li .sns {
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+}
+.portfolio ul.sns li .sns:hover,
+.about ul.sns li .sns:hover,
+.contact ul.sns li .sns:hover {
+  opacity: .8;
+}
+.portfolio ul.sns .fab,
+.about ul.sns .fab,
+.contact ul.sns .fab {
+  height: 40px;
+  width: 40px;
+  color: #fff;
+  font-size: 1.4285714285714286rem;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: -ms-inline-flex;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  -webkit-transition: 0.2s;
+  -moz-transition: 0.2s;
+  -ms-transition: 0.2s;
+  -o-transition: 0.2s;
+}
+.portfolio ul.sns .fab.fa-instagram,
+.about ul.sns .fab.fa-instagram,
+.contact ul.sns .fab.fa-instagram {
+  background: #8a3ab9;
+}
+.portfolio ul.sns .fab.fa-linkedin-in,
+.about ul.sns .fab.fa-linkedin-in,
+.contact ul.sns .fab.fa-linkedin-in {
+  background: #0077b5;
+}
+.portfolio ul.sns .fab.fa-facebook-messenger,
+.about ul.sns .fab.fa-facebook-messenger,
+.contact ul.sns .fab.fa-facebook-messenger {
+  background: #0084ff;
+}
+.portfolio ul.sns span,
+.about ul.sns span,
+.contact ul.sns span {
+  margin-left: 5px;
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+.portfolio ul.sns .instagram,
+.about ul.sns .instagram,
+.contact ul.sns .instagram {
+  color: #8a3ab9;
+}
+.portfolio ul.sns .linkedin,
+.about ul.sns .linkedin,
+.contact ul.sns .linkedin {
+  color: #0077b5;
+}
+.portfolio ul.sns .messenger,
+.about ul.sns .messenger,
+.contact ul.sns .messenger {
+  color: #0084ff;
+}
+.portfolio ul.sns .skype,
+.about ul.sns .skype,
+.contact ul.sns .skype {
+  padding: 0;
+}
+.portfolio ul.sns .skype p,
+.about ul.sns .skype p,
+.contact ul.sns .skype p {
+  width: 100%;
+  height: 100%;
+}
+.portfolio ul.sns .skype a,
+.about ul.sns .skype a,
+.contact ul.sns .skype a {
+  display: block;
+}
+.portfolio ul.sns .skype a img,
+.about ul.sns .skype a img,
+.contact ul.sns .skype a img {
+  display: none;
+}
+.portfolio ul.sns .skype a .skype-button,
+.about ul.sns .skype a .skype-button,
+.contact ul.sns .skype a .skype-button {
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+}
+.portfolio ul.sns .skype a .skype-button:before,
+.about ul.sns .skype a .skype-button:before,
+.contact ul.sns .skype a .skype-button:before {
+  height: 40px;
+  width: 40px;
+  color: #fff;
+  background: #12a5f4;
+  font-family: 'Font Awesome 5 Brands';
+  font-size: 1.4285714285714286rem;
+  content: '\f17e';
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: -ms-flex;
+  display: flex;
+  -webkit-align-items: center;
+  -ms-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  -ms-justify-content: center;
+  justify-content: center;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  border-radius: 50%;
+  -moz-background-clip: padding;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+}
+.portfolio ul.sns .skype a .skype-button:after,
+.about ul.sns .skype a .skype-button:after,
+.contact ul.sns .skype a .skype-button:after {
+  margin-left: 10px;
+  color: #12a5f4;
+  font-family: 'Muli', Arial, sans-serif;
+  font-size: 1.1rem;
+  font-weight: 700;
+  content: 'Chat with me on Skype';
+}
 .portfolio .section-container,
 .about .section-container,
 .contact .section-container {
@@ -3452,90 +3612,6 @@ footer p {
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
   flex-direction: column;
-}
-.mid-section .sns {
-  padding: 20px;
-  margin-bottom: 10px;
-  color: #fff;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: -ms-flex;
-  display: flex;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
-}
-.mid-section .sns i {
-  margin-right: 15px;
-  font-size: 3rem;
-}
-.mid-section .sns.instagram {
-  background: #8a3ab9;
-}
-.mid-section .sns.instagram:hover {
-  background: #50226b;
-}
-.mid-section .sns.linkedin {
-  background: #0077b5;
-}
-.mid-section .sns.linkedin:hover {
-  background: #00344f;
-}
-.mid-section .sns.messenger {
-  background: #0084ff;
-}
-.mid-section .sns.messenger:hover {
-  background: #004f99;
-}
-.mid-section .sns.skype {
-  padding: 0;
-  -webkit-transition: 0.2s;
-  -moz-transition: 0.2s;
-  -ms-transition: 0.2s;
-  -o-transition: 0.2s;
-}
-.mid-section .sns.skype p {
-  width: 100%;
-  height: 100%;
-}
-.mid-section .sns.skype a {
-  display: block;
-  background: #12a5f4;
-}
-.mid-section .sns.skype a:hover {
-  background: #076699;
-}
-.mid-section .sns.skype a img {
-  display: none;
-}
-.mid-section .sns.skype a .skype-button {
-  padding: 20px;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: -ms-flex;
-  display: flex;
-  -webkit-flex-direction: row;
-  -ms-flex-direction: row;
-  flex-direction: row;
-  -webkit-align-items: center;
-  -ms-align-items: center;
-  align-items: center;
-}
-.mid-section .sns.skype a .skype-button:before {
-  margin-right: 15px;
-  color: #fff;
-  font-family: 'Font Awesome 5 Brands';
-  font-size: 3rem;
-  content: '\f17e';
-}
-.mid-section .sns.skype a .skype-button:after {
-  color: #fff;
-  font-family: 'Muli', Arial, sans-serif;
-  font-size: 1rem;
-  content: 'Chat with me on Skype';
 }
 @media only screen and (min-width: 768px) {
   .homepage .mobile {
@@ -3775,6 +3851,16 @@ footer p {
   .contact .top-section .filler-image img {
     width: 245px;
   }
+  .portfolio .top-section .filler-image.desktop,
+  .about .top-section .filler-image.desktop,
+  .contact .top-section .filler-image.desktop {
+    display: block;
+  }
+  .portfolio .top-section .filler-image.mobile,
+  .about .top-section .filler-image.mobile,
+  .contact .top-section .filler-image.mobile {
+    display: none;
+  }
   .about,
   .contact {
     padding: 40px 0 0;
@@ -3784,6 +3870,10 @@ footer p {
     margin: 0 auto;
     padding: 0 10px;
     max-width: 980px;
+  }
+  .about .skype p,
+  .contact .skype p {
+    padding: 0;
   }
   .about .bottom-section,
   .contact .bottom-section {
@@ -3840,52 +3930,18 @@ footer p {
     -ms-order: 2;
     order: 2;
   }
+  .contact .top-section .filler-image {
+    width: 100%;
+  }
+  .contact .top-section .filler-image img {
+    width: 100%;
+    max-width: 425px;
+  }
   .mid-section {
     padding: 0 10px 40px;
     -webkit-flex-direction: row;
     -ms-flex-direction: row;
     flex-direction: row;
-  }
-  .mid-section .sns {
-    margin: 0 5px 10px;
-    padding: 20px 10px;
-    width: 25%;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-    -webkit-flex-grow: 1;
-    -ms-flex-grow: 1;
-    flex-grow: 1;
-  }
-  .mid-section .sns.skype {
-    width: 27%;
-  }
-  .mid-section .sns.skype p {
-    text-align: center;
-  }
-  .mid-section .sns.skype a {
-    height: 100%;
-  }
-  .mid-section .sns.skype a .skype-button {
-    padding: 20px 10px;
-    -webkit-flex-direction: column;
-    -ms-flex-direction: column;
-    flex-direction: column;
-  }
-  .mid-section .sns.skype a .skype-button:after {
-    margin-top: 20px;
-  }
-  .mid-section .sns.skype a .skype-button:before {
-    margin-right: 0;
-    font-size: 4rem;
-  }
-  .mid-section .sns span {
-    margin-top: 20px;
-    text-align: center;
-  }
-  .mid-section .sns i {
-    margin-right: 0;
-    font-size: 4rem;
   }
 }
 html,

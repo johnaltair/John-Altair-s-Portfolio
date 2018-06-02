@@ -131,7 +131,6 @@
 
             width: 100%;
             height: 100%;
-            //border: 2px solid @white;
 
             color: @white;
 
@@ -232,6 +231,123 @@
 
         img {
             width: 100%;
+        }
+
+        &.desktop {
+            display: none;
+        }
+    }
+
+    ul.sns {
+        li {
+            margin-bottom: 20px;
+
+            .sns {
+                .transition(.2s);
+
+                &:hover {
+                    opacity: .8;
+                }
+            }
+        }
+
+        .fab {
+            height: 40px;
+            width: 40px;
+
+            color: @white;
+
+            font-size: 1.4285714285714286rem;
+
+            .flex-display(inline-flex);
+            .align-items(center);
+            .justify-content(center);
+            .border-radius(50%);
+            .transition(.2s);
+
+            &.fa-instagram {
+                background: @instagram;
+            }
+
+            &.fa-linkedin-in {
+                background: @linkedin;
+            }
+
+            &.fa-facebook-messenger {
+                background: @messenger;
+            }
+        }
+
+        span {
+            margin-left: 5px;
+
+            font-size: 1.1rem;
+            font-weight: 700;
+        }
+
+        .instagram {
+            color: @instagram;
+        }
+
+        .linkedin {
+            color: @linkedin;
+        }
+
+        .messenger {
+            color: @messenger;
+        }
+
+        .skype {
+            padding: 0;
+
+            p {
+                width: 100%;
+                height: 100%;
+            }
+
+            a {
+                display: block;
+
+                img {
+                    display: none;
+                }
+
+                .skype-button {
+                    .flex-display();
+                    .flex-direction(row);
+                    .align-items(center);
+
+                    &:before {
+                        height: 40px;
+                        width: 40px;
+
+                        color: @white;
+                        background: @skype;
+
+                        font-family: @icon-font-brands;
+                        font-size: 1.4285714285714286rem;
+
+                        content: @icon-skype;
+
+                        .flex-display();
+                        .align-items(center);
+                        .justify-content(center);
+                        .border-radius(50%);
+                    }
+
+                    &:after {
+                        margin-left: 10px;
+
+                        color: @skype;
+
+                        font-family: @primary-font;
+                        font-size: 1.1rem;
+                        font-weight: 700;
+
+                        content: 'Chat with me on Skype';
+                    }
+                }
+            }
         }
     }
 
@@ -405,99 +521,6 @@
 
     .flex-display();
     .flex-direction(column);
-
-    .sns {
-        padding: 20px;
-        margin-bottom: 10px;
-
-        color: @white;
-
-        .flex-display();
-        .flex-direction(row);
-        .align-items(center);
-
-        i {
-            margin-right: 15px;
-
-            font-size: 3rem;
-        }
-
-        &.instagram {
-            background: @instagram;
-
-            &:hover {
-                background: darken(@instagram, 20%);
-            }
-        }
-
-        &.linkedin {
-            background: @linkedin;
-
-            &:hover {
-                background: darken(@linkedin, 20%);
-            }
-        }
-
-        &.messenger {
-            background: @messenger;
-
-            &:hover {
-                background: darken(@messenger, 20%);
-            }
-        }
-
-        &.skype {
-            padding: 0;
-            .transition(.2s);
-
-            p {
-                width: 100%;
-                height: 100%;
-            }
-
-            a {
-                display: block;
-
-                background: @skype;
-
-                &:hover {
-                    background: darken(@skype, 20%);
-                }
-
-                img {
-                    display: none;
-                }
-
-                .skype-button {
-                    padding: 20px;
-
-                    .flex-display();
-                    .flex-direction(row);
-                    .align-items(center);
-
-                    &:before {
-                        margin-right: 15px;
-
-                        color: @white;
-
-                        font-family: @icon-font-brands;
-                        font-size: 3rem;
-
-                        content: @icon-skype;
-                    }
-
-                    &:after {
-                        color: @white;
-
-                        font-family: @primary-font;
-                        font-size: 1rem;
-
-                        content: 'Chat with me on Skype';
-                    }
-                }
-            }
-        }
-    }
 }
 
 @media only screen  and (min-width: @screen__m) {
@@ -713,6 +736,14 @@
                 img {
                     width: 245px;
                 }
+
+                &.desktop {
+                    display: block;
+                }
+
+                &.mobile {
+                    display: none;
+                }
             }
         }
     }
@@ -725,6 +756,12 @@
             margin: 0 auto;
             padding: 0 10px;
             max-width: @base-width - 44;
+        }
+
+        .skype {
+            p {
+                padding: 0;
+            }
         }
 
         .bottom-section {
@@ -773,58 +810,20 @@
         }
     }
 
+    .contact {
+        .top-section .filler-image {
+            width: 100%;
+
+            img {
+                width: 100%;
+                max-width: 425px;
+            }
+        }
+    }
+
     .mid-section {
         padding: 0 10px 40px;
 
         .flex-direction(row);
-
-        .sns {
-            margin: 0 5px 10px;
-            padding: 20px 10px;
-            width: 25%;
-
-            .flex-direction(column);
-            .flex-grow(1);
-
-            &.skype {
-                width: 27%;
-
-                p {
-                    text-align: center;
-                }
-
-                a {
-                    height: 100%;
-
-                    .skype-button {
-                        padding: 20px 10px;
-
-                        .flex-direction(column);
-
-                        &:after {
-                            margin-top: 20px;
-                        }
-
-                        &:before {
-                            margin-right: 0;
-
-                            font-size: 4rem;
-                        }
-                    }
-                }
-            }
-
-            span {
-                margin-top: 20px;
-
-                text-align: center;
-            }
-
-            i {
-                margin-right: 0;
-
-                font-size: 4rem;
-            }
-        }
     }
 }
