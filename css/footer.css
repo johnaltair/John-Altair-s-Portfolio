@@ -3004,8 +3004,8 @@ header a:hover {
   }
   .header-container {
     width: 100%;
-    max-width: 1024px;
-    padding: 10px 0;
+    max-width: 980px;
+    padding: 10px;
     display: -webkit-flex;
     display: -ms-flexbox;
     display: -ms-flex;
@@ -3707,7 +3707,7 @@ header a:hover {
   }
   .homepage .owl-dots {
     position: relative;
-    max-width: 1024px;
+    max-width: 980px;
     margin: -30px auto 20px auto;
     -webkit-justify-content: flex-end;
     -ms-justify-content: flex-end;
@@ -3720,7 +3720,7 @@ header a:hover {
     opacity: .7;
   }
   .homepage .owl-dot:last-child {
-    margin-right: 30px;
+    margin-right: 10px;
   }
   .homepage .portfolio {
     padding: 40px 10px;
@@ -3921,6 +3921,10 @@ header a:hover {
   .about .skype p,
   .contact .skype p {
     padding: 0;
+  }
+  .about ul.sns li,
+  .contact ul.sns li {
+    margin-left: 10px;
   }
   .about .bottom-section,
   .contact .bottom-section {

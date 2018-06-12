@@ -18,8 +18,6 @@ $(function() {
             $('.navigation').removeClass('active').addClass('inactive');
             $('.mobile-menu-toggle').removeClass('active').addClass('inactive');
         }
-
-
     });
 
     $(".owl-carousel").owlCarousel({

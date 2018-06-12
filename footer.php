@@ -22,5 +22,5 @@
             </a>
         </li>
     </ul>
-    <p>&copy; 2018 John Altair Gensola</p>
+    <p>&copy; <?php echo date('Y'); ?> John Altair Gensola</p>
 </footer>
