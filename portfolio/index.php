@@ -1,109 +1,118 @@
+<script>
+    $(document).ready(function ()
+    {
+        document.title = "John Altair Gensola - Portfolio";
+    });
+</script>
 <div class="portfolio">
     <?php switch ($sub) {
-        case 'alt':
-            require_once 'portfolio/alt.php';
+        case 'altair-brewery':
+            require_once 'portfolio/altair-brewery.php';
             exit;
-        case 'art':
-            require_once 'portfolio/art.php';
+        case 'artificial-intelligence':
+            require_once 'portfolio/artificial-intelligence.php';
             exit;
-        case 'atz':
-            require_once 'portfolio/atz.php';
+        case 'artzone':
+            require_once 'portfolio/artzone.php';
             exit;
-        case 'bar':
-            require_once 'portfolio/bar.php';
+        case 'barista-panda':
+            require_once 'portfolio/barista-panda.php';
             exit;
-        case 'caa':
-            require_once 'portfolio/caa.php';
+        case 'caap':
+            require_once 'portfolio/caap.php';
             exit;
-        case 'cap':
-            require_once 'portfolio/cap.php';
+        case 'capstoned':
+            require_once 'portfolio/capstoned.php';
             exit;
-        case 'col':
-            require_once 'portfolio/col.php';
+        case 'colors':
+            require_once 'portfolio/colors.php';
             exit;
-        case 'con':
-            require_once 'portfolio/cos.php';
+        case 'consciousness':
+            require_once 'portfolio/consciousness.php';
             exit;
-        case 'dog':
-            require_once 'portfolio/dog.php';
+        case 'doggie-cool':
+            require_once 'portfolio/doggie-cool.php';
             exit;
-        case 'elv':
-            require_once 'portfolio/elv.php';
+        case 'el-verde-trio':
+            require_once 'portfolio/el-verde-trio.php';
             exit;
-        case 'evo':
-            require_once 'portfolio/evo.php';
+        case 'e-voting-system':
+            require_once 'portfolio/e-voting-system.php';
             exit;
-        case 'eye':
-            require_once 'portfolio/eye.php';
+        case 'eyedentity':
+            require_once 'portfolio/eyedentity.php';
             exit;
-        case 'gne':
-            require_once 'portfolio/gne.php';
+        case 'gneus-x':
+            require_once 'portfolio/gneus-x.php';
             exit;
-        case 'jaz':
-            require_once 'portfolio/jaz.php';
+        case 'jazen-co':
+            require_once 'portfolio/jazen-co.php';
             exit;
-        case 'man':
-            require_once 'portfolio/man.php';
+        case 'manpower-system':
+            require_once 'portfolio/manpower-system.php';
             exit;
-        case 'mat':
-            require_once 'portfolio/mat.php';
+        case 'match-me':
+            require_once 'portfolio/match-me.php';
             exit;
-        case 'med':
-            require_once 'portfolio/med.php';
+        case 'medically':
+            require_once 'portfolio/medically.php';
             exit;
-        case 'mmp':
-            require_once 'portfolio/mmp.php';
+        case 'mail-my-prescriptions':
+            require_once 'portfolio/mail-my-prescriptions.php';
             exit;
-        case 'ois':
-            require_once 'portfolio/ois.php';
+        case 'oishii':
+            require_once 'portfolio/oishii.php';
             exit;
-        case 'pac':
-            require_once 'portfolio/pac.php';
+        case 'pacialand':
+            require_once 'portfolio/pacialand.php';
             exit;
-        case 'pap':
-            require_once 'portfolio/pap.php';
+        case 'paper-head':
+            require_once 'portfolio/paper-head.php';
             exit;
-        case 'phy':
-            require_once 'portfolio/phy.php';
+        case 'phyco':
+            require_once 'portfolio/phyco.php';
             exit;
-        case 'pia':
-            require_once 'portfolio/pia.php';
+        case 'piastra-italiano':
+            require_once 'portfolio/piastra-italiano.php';
             exit;
-        case 'pok':
-            require_once 'portfolio/pok.php';
+        case 'pokemon-catcher':
+            require_once 'portfolio/pokemon-catcher.php';
             exit;
-        case 'pol':
-            require_once 'portfolio/pol.php';
+        case 'portrait-i':
+            require_once 'portfolio/portrait-i.php';
             exit;
-        case 'po2':
-            require_once 'portfolio/po2.php';
+        case 'portrait-ii':
+            require_once 'portfolio/portrait-ii.php';
             exit;
-        case 'pro':
-            require_once 'portfolio/pro.php';
+        case 'policeaid-app':
+            require_once 'portfolio/policeaid-app.php';
             exit;
-        case 'sta':
-            require_once 'portfolio/sta.php';
+        case 'propaganda':
+            require_once 'portfolio/propaganda.php';
             exit;
-        case 'tie':
-            require_once 'portfolio/tie.php';
+        case 'stark-coffee':
+            require_once 'portfolio/stark-coffee.php';
             exit;
-        case 'tru':
-            require_once 'portfolio/tru.php';
+        case 'tienda-del-palmera':
+            require_once 'portfolio/tienda-del-palmera.php';
+            exit;
+        case 'true-or-false':
+            require_once 'portfolio/true-or-false.php';
             exit;
         case 'ts9':
             require_once 'portfolio/ts9.php';
             exit;
-        case 'wef':
-            require_once 'portfolio/wef.php';
+        case 'wefly':
+            require_once 'portfolio/wefly.php';
             exit;
-        case 'yeo':
-            require_once 'portfolio/yeo.php';
+        case 'yeoleum-isle':
+            require_once 'portfolio/yeoleum-isle.php';
             exit;
-        case 'yid':
-            require_once 'portfolio/yid.php';
+        case 'yingpei-design':
+            require_once 'portfolio/yingpei-design.php';
             exit;
-        case 'yip':
-            require_once 'portfolio/yip.php';
+        case 'yingpei-photography':
+            require_once 'portfolio/yingpei-photography.php';
             exit;
         default:
             require_once 'portfolio/portfolio.php';

@@ -1,3 +1,9 @@
+<script>
+    $(document).ready(function ()
+    {
+        document.title = "John Altair Gensola - About";
+    });
+</script>
 <div class="about">
     <div class="top-section">
         <div class="top-text">

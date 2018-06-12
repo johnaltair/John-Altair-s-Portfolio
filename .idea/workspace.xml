@@ -1,20 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="970a2c29-8db0-463b-91ce-f95cb3532a17" name="Default" comment="Adjusted the width of the header and made the copyright date adaptive">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/contact-bak.php" afterPath="" />
+    <list default="true" id="970a2c29-8db0-463b-91ce-f95cb3532a17" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/alt.php" afterPath="$PROJECT_DIR$/portfolio/altair-brewery.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/art.php" afterPath="$PROJECT_DIR$/portfolio/artificial-intelligence.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/atz.php" afterPath="$PROJECT_DIR$/portfolio/artzone.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/bar.php" afterPath="$PROJECT_DIR$/portfolio/barista-panda.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/caa.php" afterPath="$PROJECT_DIR$/portfolio/caap.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/cap.php" afterPath="$PROJECT_DIR$/portfolio/capstoned.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/col.php" afterPath="$PROJECT_DIR$/portfolio/colors.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/cos.php" afterPath="$PROJECT_DIR$/portfolio/consciousness.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/dog.php" afterPath="$PROJECT_DIR$/portfolio/doggie-cool.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/elv.php" afterPath="$PROJECT_DIR$/portfolio/el-verde-trio.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/evo.php" afterPath="$PROJECT_DIR$/portfolio/e-voting-system.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/eye.php" afterPath="$PROJECT_DIR$/portfolio/eyedentity.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/gne.php" afterPath="$PROJECT_DIR$/portfolio/gneus-x.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/jaz.php" afterPath="$PROJECT_DIR$/portfolio/jazen-co.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/man.php" afterPath="$PROJECT_DIR$/portfolio/manpower-system.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/mat.php" afterPath="$PROJECT_DIR$/portfolio/match-me.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/med.php" afterPath="$PROJECT_DIR$/portfolio/medically.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/mmp.php" afterPath="$PROJECT_DIR$/portfolio/mail-my-prescriptions.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/ois.php" afterPath="$PROJECT_DIR$/portfolio/oishii.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pac.php" afterPath="$PROJECT_DIR$/portfolio/pacialand.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pap.php" afterPath="$PROJECT_DIR$/portfolio/paper-head.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/phy.php" afterPath="$PROJECT_DIR$/portfolio/phyco.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pia.php" afterPath="$PROJECT_DIR$/portfolio/piastra-italiano.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/po1.php" afterPath="$PROJECT_DIR$/portfolio/portrait-i.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/po2.php" afterPath="$PROJECT_DIR$/portfolio/portrait-ii.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pok.php" afterPath="$PROJECT_DIR$/portfolio/pokemon-catcher.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pol.php" afterPath="$PROJECT_DIR$/portfolio/policeaid-app.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pro.php" afterPath="$PROJECT_DIR$/portfolio/propaganda.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/sta.php" afterPath="$PROJECT_DIR$/portfolio/stark-coffee.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/tie.php" afterPath="$PROJECT_DIR$/portfolio/tienda-del-palmera.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/tru.php" afterPath="$PROJECT_DIR$/portfolio/true-or-false.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/wef.php" afterPath="$PROJECT_DIR$/portfolio/wefly.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/yeo.php" afterPath="$PROJECT_DIR$/portfolio/yeoleum-isle.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/yid.php" afterPath="$PROJECT_DIR$/portfolio/yingpei-design.php" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/yip.php" afterPath="$PROJECT_DIR$/portfolio/yingpei-photography.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/buttons.css" afterPath="$PROJECT_DIR$/css/buttons.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/footer.css" afterPath="$PROJECT_DIR$/css/footer.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/header.css" afterPath="$PROJECT_DIR$/css/header.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/pages.css" afterPath="$PROJECT_DIR$/css/pages.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/reset.css" afterPath="$PROJECT_DIR$/css/reset.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/footer.php" afterPath="$PROJECT_DIR$/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/header.less" afterPath="$PROJECT_DIR$/less/header.less" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/less/pages.less" afterPath="$PROJECT_DIR$/less/pages.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/index.php" afterPath="$PROJECT_DIR$/portfolio/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/portfolio.php" afterPath="$PROJECT_DIR$/portfolio/portfolio.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,20 +54,6 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pages.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less/pages.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-19">
-              <caret line="593" column="39" lean-forward="false" selection-start-line="593" selection-start-column="39" selection-end-line="593" selection-end-column="39" />
-              <folding>
-                <element signature="e#6525#6560#0" expanded="false" />
-                <element signature="e#6582#9415#0" expanded="false" />
-                <element signature="e#9436#9455#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -50,10 +64,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
+            <state relative-caret-position="213">
               <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
               <folding />
             </state>
@@ -92,21 +106,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="variables.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/less/variables.less">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="68">
+              <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contact.php">
+      <file leaf-file-name="portfolio.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/portfolio.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="179">
-              <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+            <state relative-caret-position="-1679">
+              <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/portfolio/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1989">
+              <caret line="117" column="33" lean-forward="true" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -115,8 +149,8 @@
       <file leaf-file-name="about.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -135,8 +169,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.container</find>
-      <find>s</find>
       <find>se</find>
       <find>See More</find>
       <find>see morw</find>
@@ -165,6 +197,8 @@
       <find>owl</find>
       <find>base</find>
       <find>980</find>
+      <find>el ver</find>
+      <find>evo</find>
     </findStrings>
     <dirStrings>
       <dir>C:\xampp\htdocs\portfolio-new\less\font-awesome</dir>
@@ -210,26 +244,26 @@
         <option value="$PROJECT_DIR$/less/homepage.less" />
         <option value="$PROJECT_DIR$/less/fonts.less" />
         <option value="$PROJECT_DIR$/less/variables.less" />
-        <option value="$PROJECT_DIR$/.htaccess" />
         <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/portfolio/mmp.php" />
         <option value="$PROJECT_DIR$/portfolio/caa.php" />
         <option value="$PROJECT_DIR$/portfolio/po2.php" />
         <option value="$PROJECT_DIR$/less/buttons.less" />
         <option value="$PROJECT_DIR$/portfolio/po3.php" />
-        <option value="$PROJECT_DIR$/portfolio/index.php" />
-        <option value="$PROJECT_DIR$/portfolio/portfolio.php" />
         <option value="$PROJECT_DIR$/portfolio/pro.php" />
         <option value="$PROJECT_DIR$/less/mixins.less" />
         <option value="$PROJECT_DIR$/less/reset.less" />
         <option value="$PROJECT_DIR$/homepage.php" />
-        <option value="$PROJECT_DIR$/about.php" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/footer.php" />
         <option value="$PROJECT_DIR$/less/pages.less" />
         <option value="$PROJECT_DIR$/less/header.less" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/about.php" />
+        <option value="$PROJECT_DIR$/contact.php" />
+        <option value="$PROJECT_DIR$/portfolio/portfolio.php" />
+        <option value="$PROJECT_DIR$/portfolio/index.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
       </list>
     </option>
   </component>
@@ -241,9 +275,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="676" />
-    <option name="width" value="697" />
-    <option name="height" value="745" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -269,6 +304,20 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="portfolio-new">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="portfolio-new">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="portfolio">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -492,7 +541,7 @@
       <workItem from="1527944032287" duration="248000" />
       <workItem from="1528278450236" duration="672000" />
       <workItem from="1528685548273" duration="62000" />
-      <workItem from="1528772919911" duration="2052000" />
+      <workItem from="1528772919911" duration="5031000" />
     </task>
     <task id="LOCAL-00001" summary="Added Google file">
       <created>1528278501797</created>
@@ -501,21 +550,29 @@
       <option name="project" value="LOCAL" />
       <updated>1528278501797</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Adjusted the width of the header and made the copyright date adaptive">
+      <created>1528775038412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1528775038412</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="127938000" />
+    <option name="totallyTimeSpent" value="130917000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="676" y="0" width="697" height="745" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24669604" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22767204" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32763976" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -528,7 +585,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32919255" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -567,77 +623,77 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/portfolio/po1.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/portrait-i.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/pia.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/piastra-italiano.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/phy.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/phyco.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/pap.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/paper-head.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/pol.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/policeaid-app.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="37" lean-forward="false" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/ois.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/oishii.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/sta.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/stark-coffee.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="106" lean-forward="false" selection-start-line="3" selection-start-column="106" selection-end-line="3" selection-end-column="106" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/mat.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/match-me.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/tru.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/true-or-false.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="41" lean-forward="false" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/man.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/manpower-system.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/tie.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/tienda-del-palmera.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
@@ -651,28 +707,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/yeo.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/yeoleum-isle.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="104" lean-forward="false" selection-start-line="3" selection-start-column="104" selection-end-line="3" selection-end-column="104" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/wef.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/wefly.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/yid.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/yingpei-design.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/yip.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/yingpei-photography.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" column="32" lean-forward="true" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
@@ -744,29 +800,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.htaccess" />
-    <entry file="file://$PROJECT_DIR$/portfolio/pac.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/pacialand.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/mmp.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/mail-my-prescriptions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="6" lean-forward="false" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/po2.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/portrait-ii.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/caa.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/caap.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="102" lean-forward="false" selection-start-line="3" selection-start-column="102" selection-end-line="3" selection-end-column="102" />
@@ -787,21 +842,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1360">
-          <caret line="80" column="17" lean-forward="false" selection-start-line="80" selection-start-column="17" selection-end-line="80" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/portfolio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1921">
-          <caret line="113" column="8" lean-forward="true" selection-start-line="113" selection-start-column="8" selection-end-line="113" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/portfolio/pro.php">
+    <entry file="file://$PROJECT_DIR$/portfolio/propaganda.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
@@ -844,22 +885,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/about.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="54" lean-forward="false" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="32" column="20" lean-forward="false" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
           <folding />
         </state>
       </provider>
@@ -920,8 +945,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
+        <state relative-caret-position="213">
           <caret line="35" column="17" lean-forward="false" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="55" lean-forward="false" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1989">
+          <caret line="117" column="33" lean-forward="true" selection-start-line="117" selection-start-column="33" selection-end-line="117" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/portfolio/portfolio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1679">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
           <folding />
         </state>
       </provider>

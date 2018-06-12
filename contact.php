@@ -1,4 +1,10 @@
 <script type="text/javascript" src="https://secure.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<script>
+    $(document).ready(function ()
+    {
+        document.title = "John Altair Gensola - Contact";
+    });
+</script>
 <div class="contact">
     <div class="top-section">
         <div class="top-text">
