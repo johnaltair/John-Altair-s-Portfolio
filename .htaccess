@@ -1,8 +1,3 @@
-RewriteEngine on
-
-    RewriteCond %{HTTPS} =off
-    RewriteRule ^DIRECTORY1|DIRECTORY2|DIRECTORY3 https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
-
-    RewriteCond %{HTTPS} =on
-    RewriteCond %{REQUEST_URI} !^/DIRECTORY1|DIRECTORY2|DIRECTORY3
-    RewriteRule .* http://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
