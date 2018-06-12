@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="970a2c29-8db0-463b-91ce-f95cb3532a17" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.htaccess" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/alt.php" afterPath="$PROJECT_DIR$/portfolio/altair-brewery.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/art.php" afterPath="$PROJECT_DIR$/portfolio/artificial-intelligence.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/atz.php" afterPath="$PROJECT_DIR$/portfolio/artzone.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/bar.php" afterPath="$PROJECT_DIR$/portfolio/barista-panda.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/caa.php" afterPath="$PROJECT_DIR$/portfolio/caap.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/cap.php" afterPath="$PROJECT_DIR$/portfolio/capstoned.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/col.php" afterPath="$PROJECT_DIR$/portfolio/colors.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/cos.php" afterPath="$PROJECT_DIR$/portfolio/consciousness.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/dog.php" afterPath="$PROJECT_DIR$/portfolio/doggie-cool.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/elv.php" afterPath="$PROJECT_DIR$/portfolio/el-verde-trio.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/evo.php" afterPath="$PROJECT_DIR$/portfolio/e-voting-system.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/eye.php" afterPath="$PROJECT_DIR$/portfolio/eyedentity.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/gne.php" afterPath="$PROJECT_DIR$/portfolio/gneus-x.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/jaz.php" afterPath="$PROJECT_DIR$/portfolio/jazen-co.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/man.php" afterPath="$PROJECT_DIR$/portfolio/manpower-system.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/mat.php" afterPath="$PROJECT_DIR$/portfolio/match-me.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/med.php" afterPath="$PROJECT_DIR$/portfolio/medically.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/mmp.php" afterPath="$PROJECT_DIR$/portfolio/mail-my-prescriptions.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/ois.php" afterPath="$PROJECT_DIR$/portfolio/oishii.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pac.php" afterPath="$PROJECT_DIR$/portfolio/pacialand.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pap.php" afterPath="$PROJECT_DIR$/portfolio/paper-head.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/phy.php" afterPath="$PROJECT_DIR$/portfolio/phyco.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pia.php" afterPath="$PROJECT_DIR$/portfolio/piastra-italiano.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/po1.php" afterPath="$PROJECT_DIR$/portfolio/portrait-i.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/po2.php" afterPath="$PROJECT_DIR$/portfolio/portrait-ii.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pok.php" afterPath="$PROJECT_DIR$/portfolio/pokemon-catcher.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pol.php" afterPath="$PROJECT_DIR$/portfolio/policeaid-app.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/pro.php" afterPath="$PROJECT_DIR$/portfolio/propaganda.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/sta.php" afterPath="$PROJECT_DIR$/portfolio/stark-coffee.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/tie.php" afterPath="$PROJECT_DIR$/portfolio/tienda-del-palmera.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/tru.php" afterPath="$PROJECT_DIR$/portfolio/true-or-false.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/wef.php" afterPath="$PROJECT_DIR$/portfolio/wefly.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/yeo.php" afterPath="$PROJECT_DIR$/portfolio/yeoleum-isle.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/yid.php" afterPath="$PROJECT_DIR$/portfolio/yingpei-design.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/portfolio/yip.php" afterPath="$PROJECT_DIR$/portfolio/yingpei-photography.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.htaccess" afterPath="$PROJECT_DIR$/.htaccess" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.php" afterPath="$PROJECT_DIR$/about.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/index.php" afterPath="$PROJECT_DIR$/portfolio/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio/portfolio.php" afterPath="$PROJECT_DIR$/portfolio/portfolio.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -129,8 +90,8 @@
       <file leaf-file-name=".htaccess" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.htaccess">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -541,7 +502,7 @@
       <workItem from="1527944032287" duration="248000" />
       <workItem from="1528278450236" duration="672000" />
       <workItem from="1528685548273" duration="62000" />
-      <workItem from="1528772919911" duration="5031000" />
+      <workItem from="1528772919911" duration="5667000" />
     </task>
     <task id="LOCAL-00001" summary="Added Google file">
       <created>1528278501797</created>
@@ -557,11 +518,39 @@
       <option name="project" value="LOCAL" />
       <updated>1528775038412</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Forced page to load securely">
+      <created>1528778038582</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528778038582</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Forced page to load securely">
+      <created>1528778335030</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1528778335030</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Forced page to load securely">
+      <created>1528778454351</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1528778454351</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Forced page to load securely">
+      <created>1528778603710</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1528778603710</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="130917000" />
+    <option name="totallyTimeSpent" value="131553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -616,7 +605,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added Google file" />
     <MESSAGE value="Adjusted the width of the header and made the copyright date adaptive" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusted the width of the header and made the copyright date adaptive" />
+    <MESSAGE value="Forced page to load securely" />
+    <option name="LAST_COMMIT_MESSAGE" value="Forced page to load securely" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -985,8 +975,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="64" lean-forward="false" selection-start-line="2" selection-start-column="64" selection-end-line="2" selection-end-column="64" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
