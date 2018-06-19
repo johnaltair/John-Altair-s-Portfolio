@@ -41,41 +41,41 @@
     <div class="portfolio">
         <h3>Portfolio</h3>
         <div class="portfolio-boxes">
-            <a title="Altair Brewery" class="portfolio-box" href="index.php?mod=portfolio&sub=alt">
+            <a title="Altair Brewery" href="index.php?mod=portfolio&sub=altair-brewery" class="portfolio-box">
                 <img alt="Altair Brewery" src="images/portfolio/thumbnails/altair-brewery.png">
                 <span>Altair Brewery</span>
             </a>
-            <a title="Artificial Intelligence" class="portfolio-box" href="index.php?mod=portfolio&sub=art">
+            <a title="Artificial Intelligence" href="index.php?mod=portfolio&sub=artificial-intelligence" class="portfolio-box">
                 <img alt="Artificial Intelligence" src="images/portfolio/thumbnails/artificial-intelligence.png">
                 <span>Artificial Intelligence</span>
             </a>
-            <a title="Art Zone" class="portfolio-box" href="index.php?mod=portfolio&sub=atz">
+            <a title="Art Zone" href="index.php?mod=portfolio&sub=artzone" class="portfolio-box">
                 <img alt="Art Zone" src="images/portfolio/thumbnails/artzone.png">
-                <span>ArtZone</span>
+                <span>Art Zone</span>
             </a>
-            <a title="Barista Panda" class="portfolio-box" href="index.php?mod=portfolio&sub=bar">
+            <a title="Barista Panda" href="index.php?mod=portfolio&sub=barista-panda" class="portfolio-box">
                 <img alt="Barista Panda" src="images/portfolio/thumbnails/barista-panda.png">
                 <span>Barista Panda</span>
             </a>
-            <a title="CAAP" class="portfolio-box" href="index.php?mod=portfolio&sub=caa">
-                <img alt="CAAP" src="images/portfolio/thumbnails/caap.png">
+            <a title="CAAP" href="index.php?mod=portfolio&sub=caap" class="portfolio-box">
+                <img alt="Capstoned" src="images/portfolio/thumbnails/caap.png">
                 <span>CAAP</span>
             </a>
-            <a title="Capstoned" class="portfolio-box" href="index.php?mod=portfolio&sub=cap">
+            <a title="Capstoned" href="index.php?mod=portfolio&sub=capstoned" class="portfolio-box">
                 <img alt="Capstoned" src="images/portfolio/thumbnails/capstoned.png">
                 <span>Capstoned</span>
             </a>
-            <a title="Colors" class="portfolio-box" href="index.php?mod=portfolio&sub=col">
+            <a title="Colors" href="index.php?mod=portfolio&sub=colors" class="portfolio-box">
                 <img alt="Colors" src="images/portfolio/thumbnails/colors.png">
                 <span>Colors</span>
             </a>
-            <a title="Consciousness" class="portfolio-box" href="index.php?mod=portfolio&sub=con">
+            <a title="Consciousness" href="index.php?mod=portfolio&sub=consciousness" class="portfolio-box">
                 <img alt="Consciousness" src="images/portfolio/thumbnails/consciousness.png">
                 <span>Consciousness</span>
             </a>
-            <a title="Doggie.cool" class="portfolio-box" href="index.php?mod=portfolio&sub=dog">
+            <a title="Doggie.cool" href="index.php?mod=portfolio&sub=doggie-cool" class="portfolio-box">
                 <img alt="Doggie.cool" src="images/portfolio/thumbnails/doggie-cool.png">
-                <span>Doggie<p>.</p>cool</span>
+                <span>Doggie.cool</span>
             </a>
             <a title="See More" class="common-button home" href="index.php?mod=portfolio">See More</a>
         </div>

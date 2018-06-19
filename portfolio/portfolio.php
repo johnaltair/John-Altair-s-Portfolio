@@ -34,11 +34,11 @@
     </a>
     <a title="Doggie.cool" href="index.php?mod=portfolio&sub=doggie-cool" class="portfolio-box">
         <img alt="Doggie.cool" src="images/portfolio/thumbnails/doggie-cool.png">
-        <span>Doggie<p>.</p>cool</span>
+        <span>Doggie.cool</span>
     </a>
     <a title="E-Voting System" href="index.php?mod=portfolio&sub=e-voting-system" class="portfolio-box">
         <img alt="E-Voting System" src="images/portfolio/thumbnails/e-voting-system.png">
-        <span>E<p>-</p>Voting System</span>
+        <span>E-Voting System</span>
     </a>
     <a title="El Verde Trio" href="index.php?mod=portfolio&sub=el-verde-trio" class="portfolio-box">
         <img alt="El Verde Trio" src="images/portfolio/thumbnails/el-verde-trio.png">
@@ -54,7 +54,7 @@
     </a>
     <a title="Jazen Co." href="index.php?mod=portfolio&sub=jazen-co" class="portfolio-box">
         <img alt="Jazen Co." src="images/portfolio/thumbnails/jazen-co.png">
-        <span>Jazen Co<p>.</p></span>
+        <span>Jazen Co.</span>
     </a>
     <a title="Mail My Prescriptions" href="index.php?mod=portfolio&sub=mail-my-prescriptions" class="portfolio-box">
         <img alt="Mail My Prescriptions" src="images/portfolio/thumbnails/mail-my-prescriptions.png">
@@ -66,11 +66,11 @@
     </a>
     <a title="Match.Me" href="index.php?mod=portfolio&sub=match-me" class="portfolio-box">
         <img alt="Match.Me" src="images/portfolio/thumbnails/match-me.png">
-        <span>Match<p>.</p>Me</span>
+        <span>Match.Me</span>
     </a>
     <a title="Medical.ly" href="index.php?mod=portfolio&sub=medically" class="portfolio-box">
         <img alt="Medical.ly" src="images/portfolio/thumbnails/medically.png">
-        <span>Medical<p>.</p>ly</span>
+        <span>Medical.ly</span>
     </a>
     <a title="Oishii" href="index.php?mod=portfolio&sub=oishii" class="portfolio-box">
         <img alt="Oishii" src="images/portfolio/thumbnails/oishii.png">
@@ -94,7 +94,7 @@
     </a>
     <a title="Pokemon Catcher" href="index.php?mod=portfolio&sub=pokemon-catcher" class="portfolio-box">
         <img alt="Pokemon Catcher" src="images/portfolio/thumbnails/pokemon-catcher.png">
-        <span>Pok<p class="accented">&eacute;</p>mon Catcher</span>
+        <span>Pok&eacute;mon Catcher</span>
     </a>
     <a title="PoliceAid App" href="index.php?mod=portfolio&sub=policeaid-app" class="portfolio-box">
         <img alt="PoliceAid App" src="images/portfolio/thumbnails/policeaid-app.png">
@@ -126,7 +126,7 @@
     </a>
     <a title="TS9" href="index.php?mod=portfolio&sub=ts9" class="portfolio-box">
         <img alt="TS9" src="images/portfolio/thumbnails/ts9.png">
-        <span>TS<p class="number">9</p></span>
+        <span>TS9</span>
     </a>
     <a title="WeFly" href="index.php?mod=portfolio&sub=wefly" class="portfolio-box">
         <img alt="WeFly" src="images/portfolio/thumbnails/wefly.png">
