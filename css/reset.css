@@ -2755,6 +2755,9 @@ readers do not read off random characters that represent icons */
 .common-button.home {
   color: #e0e0e0;
 }
+.common-button.home:hover {
+  color: #212121;
+}
 header {
   z-index: 100;
   background: #212121;

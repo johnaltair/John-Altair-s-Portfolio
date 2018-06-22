@@ -7,7 +7,7 @@
                     <span>Web Developer</span>
                     <h3>Piastra Italiano</h3>
                     <h4>Website</h4>
-                    <a title="See More" class="common-button" href="index.php?mod=portfolio">See More</a>
+                    <a title="Check It Out" class="common-button" href="index.php?mod=portfolio&sub=piastra-italiano">Check It Out</a>
                 </div>
                 <img class="mobile" src="images/slider/web-development-mobile.png" alt="Web Development">
                 <img class="desktop" src="images/slider/web-development-desktop.png" alt="Web Development">
@@ -19,7 +19,7 @@
                     <span>Graphic Designer</span>
                     <h3>Artificial Intelligence</h3>
                     <h4>Poster Design</h4>
-                    <a title="See More" class="common-button" href="index.php?mod=portfolio">See More</a>
+                    <a title="Check It Out" class="common-button" href="index.php?mod=portfolio&sub=artificial-intelligence">Check It Out</a>
                 </div>
                 <img class="mobile" src="images/slider/graphic-design-mobile.png" alt="Graphic Design">
                 <img class="desktop" src="images/slider/graphic-design-desktop.png" alt="Graphic Design">
@@ -31,7 +31,7 @@
                     <span>Mobile Developer</span>
                     <h3>PoliceAid App</h3>
                     <h4>Android App</h4>
-                    <a title="See More" class="common-button" href="index.php?mod=portfolio">See More</a>
+                    <a title="Check It Out" class="common-button" href="index.php?mod=portfolio&sub=policeaid-app">Check It Out</a>
                 </div>
                 <img class="mobile" src="images/slider/mobile-development-mobile.png" alt="Mobile Development">
                 <img class="desktop" src="images/slider/mobile-development-desktop.png" alt="Mobile Development">

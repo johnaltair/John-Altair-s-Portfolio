@@ -4102,3 +4102,6 @@ footer p {
 .common-button.home {
   color: #e0e0e0;
 }
+.common-button.home:hover {
+  color: #212121;
+}
