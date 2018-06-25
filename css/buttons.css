@@ -2877,11 +2877,6 @@ a {
 .root {
   font-size: 14px;
 }
-.border-box {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 header {
   z-index: 100;
   background: #212121;
@@ -2931,12 +2926,11 @@ header a:hover {
 }
 .mobile-menu-toggle {
   position: relative;
-  display: block;
   width: 30px;
   height: 20px;
+  margin-top: -2px;
 }
 .mobile-menu-toggle .line {
-  display: block;
   position: absolute;
   width: 30px;
   height: 4px;

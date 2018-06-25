@@ -5,7 +5,6 @@
                 <img alt="John Altair Gensola" src="images/logo.svg" class="header-img">
             </a>
             <a href="#" class="mobile-menu-toggle inactive">
-<!--                <i class="fas fa-bars">&nbsp;</i>-->
                 <span class="line line-1"></span>
                 <span class="line line-2"></span>
                 <span class="line line-3"></span>

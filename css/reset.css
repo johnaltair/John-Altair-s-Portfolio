@@ -2738,11 +2738,6 @@ readers do not read off random characters that represent icons */
   position: static;
   width: auto;
 }
-.border-box {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
 .common-button {
   border: 2px solid #212121;
   padding: 5px 8px 8px;
@@ -2812,12 +2807,11 @@ header a:hover {
 }
 .mobile-menu-toggle {
   position: relative;
-  display: block;
   width: 30px;
   height: 20px;
+  margin-top: -2px;
 }
 .mobile-menu-toggle .line {
-  display: block;
   position: absolute;
   width: 30px;
   height: 4px;
